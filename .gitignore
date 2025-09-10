@@ -1,0 +1,15 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database
+*.db
+*.sqlite3
+
+# Virtual environments
+.env
+*.venv
+/home/najma/.virtualenvs/
+Habit-Tracker-FdmiB95y/
