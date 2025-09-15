@@ -102,11 +102,18 @@ Run the included test script to verify database functionality:
 python test.py
 
 It will display the current categories, habits, and completions in the database.
+Running the CLI
+
+To start the Habit Tracker CLI:
+
+python -m lib.cli
+
+From here, you can add habits, mark completions, and view progress.
+(The available commands depend on your implementation in cli.py.)
 Author
 
 Name: Najma Boru
 GitHub: qalicha-dev28
-
 License
 
 This project is licensed under the MIT License.
